@@ -1,0 +1,52 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "isbn": "9780743273565"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "isbn": "9780061120084"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "isbn": "9780451524935"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "isbn": "9780316769488"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isbn": "9780547928227"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "isbn": "9780141439518"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "isbn": "9780060850524"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "isbn": "9780062315007"
+  },
+  {
+    "title": "The Book Thief",
+    "author": "Markus Zusak",
+    "isbn": "9780375842207"
+  },
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "isbn": "9780735211292"
+  }
+]
